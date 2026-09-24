@@ -28,4 +28,7 @@ Obteniendo estos valores de sigma se genera el grafico de esfuerzo (eje y) contr
 
 # Limitaciones
 -No se tuvo acceso a la ficha de laboratorio original, asi que no se pudo confirmar con certeza las unidades ni las condiciones del ensayo.
--E grafico que venia en el proyecto heredado era solo una imagen, sin mostrar nada de como se genero, por lo que aca se hizo el procediemiento de eso.
+-El grafico que venia en el proyecto heredado era solo una imagen, sin mostrar nada de como se genero, por lo que aca se hizo el procediemiento de eso.
+
+# Herramientas utilizadas
+-Se utilizo microsoft excel para calcular los esfuerzos y generar el grafico.
