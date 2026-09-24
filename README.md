@@ -4,12 +4,12 @@
 Este proyecto toma los datos de un ensayo de compresion  hecho a una probeta de hormigon y calcula el esfuerzo que resistio, para despues graficar contra el desplzamiento medido.
 
 # Datos de entrada
-Se uso el un archivo llamado `ensayo hormigon final v2.xlsx` principalment, ya que es la version mas reciente de los datos. Por otro lado el archivo `ensayo hormigon.xlsx` se dejo guardado solo como resplado, pero no se uso para los calculos finales.
+Se uso el un archivo llamado `ensayo hormigon final v2.xlsx` principalmente, ya que es la version mas reciente de los datos. Por otro lado el archivo `ensayo hormigon.xlsx` se dejo guardado solo como respaldo, pero no se uso para los calculos finales.
 Existen dos columnas en el archivo:
 -`P` : Es la carga aplicada durante el ensayo (kN)
 -`u` : Es el desplazamiento registrado (mm)
 -`sigma` : Es la resistencia que se obtuvo (MPa)
-Las dimensiones de la probeta son D= 150 mm y H= 300 mm. Estos valores no venian confirmados en el proyeto original, por lo que deberian verificarse en el laboratorio.
+Las dimensiones de la probeta son D= 150 mm y H= 300 mm. Estos valores no venian confirmados en el proyecto original, por lo que deberian verificarse en el laboratorio.
 
 # Procedimiento 
 En primer lugar se calcula el area de la seccion circular de la probeta, que seria de la siguiente manera:
